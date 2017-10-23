@@ -8,7 +8,7 @@ non-designers.
 See [HelloWebBooks.com](http://hellowebbooks.com) for how to order (starts at $14.95
 for eBook files), a blog with additional tutorials, and more information.
 
-### Contents
+## Contents
 
 ### Continuing your education
 
