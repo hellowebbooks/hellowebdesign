@@ -1,5 +1,10 @@
 # Typography Tools and Web Fonts
 
+### Blog posts
+
+**[A Five Minute Guide to Better
+Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)**
+
 ### Webfonts
 
 **Google Fonts** ([https://fonts.google.com/](https://fonts.google.com/))
