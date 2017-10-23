@@ -26,7 +26,7 @@ Resources](https://github.com/hellowebbooks/hellowebdesign/tree/master/color-too
 * [Typography and web
 fonts](https://github.com/hellowebbooks/hellowebdesign/tree/master/type-tools)
 * [Images and
-Imagery]((https://github.com/hellowebbooks/hellowebdesign/tree/master/image-tools))
+Imagery](https://github.com/hellowebbooks/hellowebdesign/tree/master/image-tools))
 
 ## Final thoughts
 
