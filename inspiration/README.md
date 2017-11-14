@@ -2,6 +2,8 @@
 
 Places on the web you can use to collect design inspiration.
 
+### Inspiration collection websites
+
 **Dribbble** ([https://dribbble.com/](https://dribbble.com/))
 
 "Show and tell for designers." Dribbble lets artists and designers showcase their work, with a particular focus on small elements or design details.
@@ -21,3 +23,7 @@ Another web design collection site, this one also includes editorial comments on
 **UI Patterns** ([uipatterns.io](http://uipatterns.io))
 
 A collection of patterns that you could use to solve common design and user interface problems, such as designing a date-picker. Most examples are based on mobile interfaces. 
+
+### Instagram accounts
+
+* [@ux_ui_wireframes](https://www.instagram.com/ux_ui_wireframes/)
