@@ -4,7 +4,7 @@ Color theory and color picking can be tough! Some recommended resources:
 
 ### Color pickers
 
-**Colourlovers** ([http://www.colourlovers.com/](http://www.colourlovers.com/))
+**Colormind** ([http://www.colormind.io/](http://www.colormind.io/))
 
 **Adobe Color CC** ([https://color.adobe.com/](https://color.adobe.com/))
 
