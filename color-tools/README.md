@@ -2,13 +2,16 @@
 
 Color theory and color picking can be tough! Some recommended resources:
 
-### Color pickers
+### Color pickers and palettes
 
 **Colormind** ([http://www.colormind.io/](http://www.colormind.io/))
 
 **Adobe Color CC** ([https://color.adobe.com/](https://color.adobe.com/))
 
 **Material Design Palette** ([materialpalette.com](https://www.materialpalette.com/))
+
+**Colorbook.me** ([https://colorbook.me/](https://colorbook.me/))
+The latest & most popular color palettes trending on Dribbble right now.
 
 ### Color theory
 
