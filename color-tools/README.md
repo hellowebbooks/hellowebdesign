@@ -13,6 +13,10 @@ Color theory and color picking can be tough! Some recommended resources:
 **Colorbook.me** ([https://colorbook.me/](https://colorbook.me/))
 The latest & most popular color palettes trending on Dribbble right now.
 
+**Flat UI Colors 2** ([http://flatuicolors.com/](http://flatuicolors.com/))
+280 handpicked colors all ready for copy & paste.
+
+
 ### Color theory
 
 **A Simple Web Developers Guide to Color** ([https://www.smashingmagazine.com/2016/04/web-developer-guide-color/](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/))
