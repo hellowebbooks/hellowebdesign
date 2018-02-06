@@ -1,4 +1,4 @@
-# Hello Web Design: Learn Web Design Fundamentals Aimed at Programmers and Non-Designers 
+# Hello Web Design: Learn Web Design Fundamentals Aimed at Programmers and Non-Designers
 
 Hey friends! This repository has been created to hold additional files and
 information for *[Hello Web Design](https://hellowebbooks.com/learn-design)*, a
@@ -26,7 +26,7 @@ Resources](https://github.com/hellowebbooks/hellowebdesign/tree/master/color-too
 * [Typography and web
 fonts](https://github.com/hellowebbooks/hellowebdesign/tree/master/type-tools)
 * [Images and
-Imagery](https://github.com/hellowebbooks/hellowebdesign/tree/master/image-tools))
+Imagery](https://github.com/hellowebbooks/hellowebdesign/tree/master/image-tools)
 
 ## Final thoughts
 
